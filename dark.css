@@ -1,0 +1,39 @@
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+
+body.change{
+
+    color: white;
+    background-color: black;
+    
+}
+.dark{
+    width: 500px ;
+    height: 400px;
+    text-align: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 100px;
+
+}
+.pro{
+    text-align: justify;
+    font-size: 30px;
+}
+.toggle_btn{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
